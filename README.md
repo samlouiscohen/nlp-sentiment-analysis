@@ -7,5 +7,5 @@ I used both a unigram and bigram representation of the data in order to draw con
 
 Also, alongside each vanilla representation I included one implementing tf–idf, or "short for term frequency–inverse document frequency".
 
-After performing cross validation on the training set, I noted that suprisingly vanilla unigram had the bes performance with an accuracy hovering around 84%.
+After performing cross validation on the training set, I noted that suprisingly vanilla unigram had the best performance with an accuracy hovering around 84%.
 
